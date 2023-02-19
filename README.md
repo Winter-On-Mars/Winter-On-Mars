@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Winter-On-Mars
-- 👀 I’m interested in low level coding and game development
-- 🌱 I’m currently learning data structures
+- 👀 I’m interested in programming language design
+- 🌱 I’m currently learning data structures and code compilation 
 - 💞️ I’m looking to collaborate on math related data structures
-- 📫 How to reach me ...
-
